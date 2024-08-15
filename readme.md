@@ -25,5 +25,5 @@ Ensure you have Docker installed on your machine. If not, follow the installatio
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git@github.com:m-umarr/online-test-management.git
+cd online-test-management
